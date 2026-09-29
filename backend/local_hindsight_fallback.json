@@ -1,0 +1,325 @@
+[
+  {
+    "id": "mem_1790672787_1",
+    "problem": "Payment Failure",
+    "action": "payment gateway changed",
+    "result": "Complaints decresed temporarily",
+    "timestamp": "2026-09-29T09:06:27.627496+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: payment gateway changed\nPrevious Result / Outcome: Complaints decresed temporarily\nLogged At: 2026-09-29T09:06:27.627496+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'payment gateway changed'. The outcome was: 'Complaints decresed temporarily'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790672806_2",
+    "problem": "Payment Failure",
+    "action": "payment gateway changed",
+    "result": "Complaints decresed temporarily",
+    "timestamp": "2026-09-29T09:06:46.772469+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: payment gateway changed\nPrevious Result / Outcome: Complaints decresed temporarily\nLogged At: 2026-09-29T09:06:46.772469+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'payment gateway changed'. The outcome was: 'Complaints decresed temporarily'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790672837_3",
+    "problem": "Payment Failure",
+    "action": "payment gateway changed",
+    "result": "Complaints decresed temporarily",
+    "timestamp": "2026-09-29T09:07:17.543263+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: payment gateway changed\nPrevious Result / Outcome: Complaints decresed temporarily\nLogged At: 2026-09-29T09:07:17.543263+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'payment gateway changed'. The outcome was: 'Complaints decresed temporarily'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673016_4",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:10:16.417311+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:10:16.417311+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673019_5",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:10:19.447326+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:10:19.447326+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673023_6",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:10:23.525654+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:10:23.525654+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673025_7",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:10:25.276260+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:10:25.276260+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673032_8",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:10:32.718302+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:10:32.718302+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673033_9",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:10:33.735256+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:10:33.735256+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673038_10",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:10:38.089263+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:10:38.089263+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673045_11",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:10:45.711824+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:10:45.711824+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673053_12",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:10:53.289929+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:10:53.289929+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673054_13",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:10:54.212049+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:10:54.212049+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673055_14",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:10:55.258606+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:10:55.258606+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673056_15",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:10:56.422791+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:10:56.422791+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673072_16",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:11:12.634189+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:11:12.634189+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673099_17",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:11:39.412631+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:11:39.412631+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673273_18",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:14:33.965920+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:14:33.965920+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  },
+  {
+    "id": "mem_1790673296_19",
+    "problem": "Payment Failure",
+    "action": "Updated payment gateway",
+    "result": "Payment complaints decreased",
+    "timestamp": "2026-09-29T09:14:56.790382+00:00",
+    "formatted_text": "Product Problem: Payment Failure\nPrevious Action Taken: Updated payment gateway\nPrevious Result / Outcome: Payment complaints decreased\nLogged At: 2026-09-29T09:14:56.790382+00:00\nExperience Summary: For problem 'Payment Failure', the product team took action: 'Updated payment gateway'. The outcome was: 'Payment complaints decreased'.",
+    "tags": [
+      "recallloop_experience",
+      "payment_failure"
+    ],
+    "source": "LOCAL_FALLBACK (Hindsight Unconfigured)",
+    "real_hindsight_synced": false,
+    "hindsight_bank": "recallloop-product-memory",
+    "raw_hindsight_response": null,
+    "error": null
+  }
+]
